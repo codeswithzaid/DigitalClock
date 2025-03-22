@@ -4,7 +4,7 @@
 A simple digital clock created using **HTML, CSS, and JavaScript**. This clock displays the current time dynamically and updates every second.  
 
 ## 🚀 Live Demo  
-[Click here to view the live clock](your_github_pages_link_here)  
+[Click here to view the live clock]https://codeswithzaid.github.io/DigitalClock/
 
 ## 📌 Features  
 - Real-time updating clock  
@@ -35,7 +35,7 @@ https://photos.app.goo.gl/9goMxXP9uQUCUEE29
 
 🔗 Website
 
-
+https://codeswithzaid.github.io/DigitalClock/
 
 📜 License
 
