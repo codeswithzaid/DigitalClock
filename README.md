@@ -20,7 +20,7 @@ A simple digital clock created using **HTML, CSS, and JavaScript**. This clock d
 ## 📖 How to Use?  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/digital-clock.git
+https://github.com/codeswithzaid/DigitalClock
 
 2. Open index.html in your browser.
 
